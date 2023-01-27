@@ -1,0 +1,12 @@
+C:\Fontes\HAZAN\DOTNET7\webapi\webapi\obj\Release\net7.0\PubTmp\Out\webapi.exe
+C:\Fontes\HAZAN\DOTNET7\webapi\webapi\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\Fontes\HAZAN\DOTNET7\webapi\webapi\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\Fontes\HAZAN\DOTNET7\webapi\webapi\obj\Release\net7.0\PubTmp\Out\webapi.dll
+C:\Fontes\HAZAN\DOTNET7\webapi\webapi\obj\Release\net7.0\PubTmp\Out\webapi.deps.json
+C:\Fontes\HAZAN\DOTNET7\webapi\webapi\obj\Release\net7.0\PubTmp\Out\webapi.runtimeconfig.json
+C:\Fontes\HAZAN\DOTNET7\webapi\webapi\obj\Release\net7.0\PubTmp\Out\webapi.pdb
+C:\Fontes\HAZAN\DOTNET7\webapi\webapi\obj\Release\net7.0\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
+C:\Fontes\HAZAN\DOTNET7\webapi\webapi\obj\Release\net7.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Fontes\HAZAN\DOTNET7\webapi\webapi\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Fontes\HAZAN\DOTNET7\webapi\webapi\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Fontes\HAZAN\DOTNET7\webapi\webapi\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
